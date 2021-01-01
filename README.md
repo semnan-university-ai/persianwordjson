@@ -26,3 +26,4 @@ Wordlist is available in JSON format.
 * [tsetmc-dataset](https://github.com/amirshnll/tsetmc-dataset/)
 * [persianwordjson](https://github.com/amirshnll/persianwordjson/)
 * [English-Persian-Word-Database](https://github.com/amirshnll/English-Persian-Word-Database/)
+* [Covid-patient-datasets](https://github.com/amirshnll/Covid-patient-datasets/)
