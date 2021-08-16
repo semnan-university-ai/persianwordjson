@@ -7,6 +7,7 @@ This repository is a Persian meaningful database with json
 * Last Update: 1 january, 2021
 * Data format: JSON Data
 * Contribute: Fork and Push Requests :)
+* DOI : 10.34740/kaggle/dsv/2528239
 
 Word Count : 2214 words.
 Repeat the letters Count : 9734
